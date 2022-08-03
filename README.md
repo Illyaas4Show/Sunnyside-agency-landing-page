@@ -72,6 +72,18 @@ I really struggled on this project and it took me way too long, but I have learn
 
 I also learnt how to make a mobile navigation bar. However It wasn't the most functional so I will try to work on that.
 
+I also learnt about the `<Picture>` element, used to add adaptive images:
+
+```html
+
+<picture>
+  <source srcset='/mobile-image.jpg' media='(min-width: 500px)'>
+  <img src='/desktop-image.jpg' alt=''>
+</picture>
+
+```
+
+
 ### Continued development
 
 I will continue to learn to optimize SCSS to make styling easier. I will also experiment in installation to make it less stressful and make it compatible with netlify. It doesn't currently work with netlify unfortunately.
