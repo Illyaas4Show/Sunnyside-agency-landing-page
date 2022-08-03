@@ -1,2 +1,1 @@
-console.log('Hello world');
-console.log('yes');
+document.getElementById("logo").style.margin = '2rem';
