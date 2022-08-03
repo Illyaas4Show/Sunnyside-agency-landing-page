@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./front-end%20files/screenshot.jpg)
 
 ### Links
 
